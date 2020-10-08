@@ -1,3 +1,5 @@
+# Improved Phased Assembler
+
 ## Description
 
 Documentation for running the PacBio Improved Phased Assembler (IPA) pipeline for *de novo* genome assembly of HiFi sequencing data.
