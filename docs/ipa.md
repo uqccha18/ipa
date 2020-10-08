@@ -65,9 +65,9 @@ Any additional notes for tool dependencies
 
 | Tool/WF | Version | Group | Organism name | Genus species | Genome size (GB) | Hours required | Cores | Peak RAM in GB (requested) | Drive (GB) | HPC-HTC | Month-Year |
 |---------|---------|-------|---------------|---------------|------------------|----------------|-------|----------------------------|---------------|---------|------------|
-|IPA |[1.1.2](https://github.com/PacificBiosciences/pbipa/tree/v1.1.2)|Oz Mammals Genomics|Bilby|Macrotis lagotis|~3.3|3|64|~150 (256)|500|[Nimbus @ Pawsey](IPA_infrastructure_nimbus.html)|08-2020|
-|IPA |[1.1.2](https://github.com/PacificBiosciences/pbipa/tree/v1.1.2)|AWGG|Woylie|Bettongia penicillata|~3.3|3|64|~150 (256)|500|[Nimbus @ Pawsey](IPA_infrastructure_nimbus.html)|08-2020|
-|IPA |NA|Oz Mammals Genomics|Bilby|Macrotis lagotis|~3.3|5|28|~24 (NA)|NA|[Zeus @ Pawsey](IPA_infrastructure_zeus.html)|08-2020|
+|IPA |[1.1.2](https://github.com/PacificBiosciences/pbipa/tree/v1.1.2)|Oz Mammals Genomics|Bilby|Macrotis lagotis|~3.3|3|64|~150 (256)|500|[Nimbus @ Pawsey](infrastructure_optimisation_nimbus.md)|08-2020|
+|IPA |[1.1.2](https://github.com/PacificBiosciences/pbipa/tree/v1.1.2)|AWGG|Woylie|Bettongia penicillata|~3.3|3|64|~150 (256)|500|[Nimbus @ Pawsey](infrastructure_optimisation_nimbus.md)|08-2020|
+|IPA |NA|Oz Mammals Genomics|Bilby|Macrotis lagotis|~3.3|5|28|~24 (NA)|NA|[Zeus @ Pawsey](infrastructure_optimisation_zeus.md)|08-2020|
 
 ### Additional notes
 
@@ -78,14 +78,14 @@ Any additional notes for tool dependencies
 - [Install from BioConda (PacBiosciences)](https://github.com/PacificBiosciences/pbipa#installation-from-bioconda)
 - Note: If Samtools fixes from above link do not work you can try running `conda install samtools=1.9 --force-reinstall`
 - See infrastructure documentation for specific install instructions:
-     - [Zeus @ Pawsey Supercomputing Centre](IPA_infrastructure_zeus.html) 
-     - [Nimbus @ Pawsey Supercomputing Centre](IPA_infrastructure_nimbus.html)
+     - [Zeus @ Pawsey Supercomputing Centre](infrastructure_optimisation_zeus.md) 
+     - [Nimbus @ Pawsey Supercomputing Centre](infrastructure_optimisation_nimbus.md)
 
 ## Tutorials
 
 - See the following infrastructure links for tutorials:
-     - [Zeus @ Pawsey Supercomputing Centre](IPA_infrastructure_zeus.html) 
-     - [Nimbus @ Pawsey Supercomputing Centre](IPA_infrastructure_nimbus.html)
+     - [Zeus @ Pawsey Supercomputing Centre](infrastructure_optimisation_zeus.md) 
+     - [Nimbus @ Pawsey Supercomputing Centre](infrastructure_optimisation_nimbus.md)
 
 ## Help / FAQ / Troubleshooting
 
