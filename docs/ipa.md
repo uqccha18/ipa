@@ -6,7 +6,7 @@ Documentation for running the PacBio Improved Phased Assembler (IPA) pipeline fo
 
 Purge_Dups is included here as the assemblies produced by IPA are larger than expected, requiring removal of contig overlaps and haplotigs.
 
-**Note:** The IPA workflow creates a Purge_dups output folder but the README clarifies that this step is skipped, so Purge_Dups needs to be run afterwards. Install and run instructions are provided for [Pawsey Nimbus infrastructure](IPA_infrastructure_nimbus.html) only.
+**Note:** The IPA workflow creates a Purge_dups output folder but the README clarifies that this step is skipped, so Purge_Dups needs to be run afterwards. Install and run instructions are provided for [Pawsey Nimbus infrastructure](infrastructure_optimisation_nimbus.md) only.
 
 Appropriate links (to BioCommons and/or external documentation) are included for each of the component tools below, *if known*.
 
